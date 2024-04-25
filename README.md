@@ -1,8 +1,7 @@
 ### UKK Galeri
-<ol><li>*Nama : Putri Rizwanti Sungkawa</li>
-    <li>*NIS : 12100737</li>
-    <li>*Rombel : RPL-XII</li>
-</ol>
+*Nama : Putri Rizwanti Sungkawa
+*NIS : 12100737
+*Rombel : RPL-XII
 
 ### Fitur
 <ol><li>create</li>
